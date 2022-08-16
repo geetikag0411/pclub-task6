@@ -5,8 +5,11 @@ Geetika likes to invest in jewellery. Price of jewellery varies like in case of 
 INPUT
 
 The first line contains “T” the number of test cases. (0<T<10)
+
 The first line of each test case contains space separated positive integers  n and m.
+
 The second line of each test case contains n space separated positive integers xi  where 1<=i<=n<50 and 0<=xi<=50.
+
 The third  line of each test case contains m space separated positive integers yi  where 2<=i<=m<50 and 0<=yi<=2500.
 
 
